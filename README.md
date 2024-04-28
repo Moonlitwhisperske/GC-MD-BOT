@@ -7,13 +7,13 @@
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/GABRIEL KORIR-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Moonlitwhisperske/GC-MD-BOT"><img title="Author" src="https://img.shields.io/badge/GABRIEL KORIR-blue?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/Moonlitwhisperske?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhispers?label=Followers&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhisperske?label=Followers&style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GC-MD-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GC-MD-BOT?style=social"></a>
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
