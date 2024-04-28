@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/Moonlitwhisperske?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhispers?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GC-MD-BOT?&style=social"></a>
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
