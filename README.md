@@ -17,7 +17,7 @@
 <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GC-MD-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">💦ᴘʀɪɴᴄᴇ-ᴍᴅ💦</h1>
+<h1 align="center">💦 GABRIEL KORIR 💦</h1>
 
 #### 💦💦To Change the owner number click here [CHANGE ONWER](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/plugins/main-creator.js#L7)💦💦
 
