@@ -36,7 +36,7 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *🛡️PЯINCΣ-BOT-MÐ🛡️*
+let str = ` *🛡️ GABRIEL-MD-BOT 🛡️*
 
 
 ╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
@@ -52,6 +52,7 @@ let str = ` *🛡️PЯINCΣ-BOT-MÐ🛡️*
 │🎉✫ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
 │🎮✫ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
 │🎩✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
+|💌✫ -  BUY ME COFFEE DM GABRIEL
 │ *${usedPrefix}ᴍᴇɴᴜ2 ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
 │ *${usedPrefix}ᴍᴇɴᴜ3 ғᴏʀ sᴘᴇᴄɪᴀʟ ᴍᴇɴᴜ ʟɪsᴛ*
 │ *${usedPrefix}ʟɪsᴛ ғᴏʀ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
@@ -95,6 +96,8 @@ function clockString(ms) {
       return res
     }
     const quotes = [
+      "GABRIEL KORIR SAYS HELLO 🤗 
+      "Don't see am too calm,,the beast inside me is taking a nap.
       "I'm not lazy, I'm just on my energy saving mode.",
       "Life is short, smile while you still have teeth.",
       "I may be a bad influence, but darn I am fun!",
