@@ -27,6 +27,7 @@ import {
   ⛥ *Prefix:* [ *%_p* ]
   ⛥ *Uptime:* %muptime
   ⛥ *Database:*  %totalreg
+  ⛥ *Owner:* buy me coffee +254704424158
   ╰━━━━━━━━━━━━━━━╯
   
  ╭━━⊱「 *U S E R*」⊱━━╮
@@ -223,18 +224,18 @@ import {
  
  function ucapan() {
   const time = moment.tz("Asia/Kolkata").format("HH")
-  let res = "Good morning ☀️"
+  let res = "Gabriel says Good morning ☀️"
   if (time >= 4) {
-   res = "Good Morning 🤗🌄"
+   res = "Gabriel says Good Morning 🤗🌄"
   }
   if (time >= 10) {
-   res = "Good Afternoon ☀️"
+   res = "Gabriel says Good Afternoon ☀️"
   }
   if (time >= 15) {
-   res = "Good Afternoon 🌇"
+   res = "Gabriel says Good Afternoon 🌇"
   }
   if (time >= 18) {
-   res = "Good Night 🌙😴"
+   res = "Gabriel says Good Night 🌙😴"
   }
   return res
  }
