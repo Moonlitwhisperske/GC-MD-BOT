@@ -14,7 +14,7 @@
 <a href="https://github.com/Moonlitwhisperske?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhisperske?label=Followers&style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GC-MD-BOT?&style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GC-MD-BOT?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GC-MD-BOT?label=Watching&style=social"></a>
 </p>
  
 <h1 align="center">💦ᴘʀɪɴᴄᴇ-ᴍᴅ💦</h1>
