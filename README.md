@@ -19,7 +19,7 @@
  
 <h1 align="center">💦 GABRIEL KORIR 💦</h1>
 
-#### 💦💦To Change the owner number click here [CHANGE ONWER](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/plugins/main-creator.js#L7)💦💦
+#### 💦💦To Change the owner number click here [CHANGE ONWER](https://github.com/Moonlitwhisperske/GC-MD-BOT/blob/main/plugins/main-creator.js#L7)💦💦
 
 ### 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘
 <p align="left">
@@ -42,7 +42,7 @@
        
        
    #### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/MR-PRINCE-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-black?style=for-the-badge&logo=heroku" width="200" height="30.45"/></a></p>
+   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Moonlitwhisperske/GC-MD-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-black?style=for-the-badge&logo=heroku" width="200" height="30.45"/></a></p>
 
 
 
