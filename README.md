@@ -23,7 +23,7 @@ ok <p align="center">
 
 ### 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘
 <p align="left">
-<a href="https://replit.com/@iycwwwuaaipgfjs/Prince-PairCode?v=1"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
+<a href="https://replit.com/@gabrielkorir12/Prince-PairCode-1"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
 <p/>
 
 ****
